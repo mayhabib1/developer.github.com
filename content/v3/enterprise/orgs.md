@@ -23,7 +23,7 @@ http(s)://<em>hostname</em>/api/v3
 Name | Type | Description
 -----|------|--------------
 `login`|`string` | **Required.** The organization's username.
-`admin`|`string`| **Required.** The login of the user who will manage this organization.
+`admin`|`string`| **Required.** The login of the admin user who will manage this organization.
 `profile_name`|`string` | The organization's display name.
 
 #### Example
