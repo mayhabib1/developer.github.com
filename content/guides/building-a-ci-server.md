@@ -1,5 +1,5 @@
 ---
-title: Building a CI server
+title: Building a Continuous Integration server
 ---
 
 # Building a CI server
