@@ -6,7 +6,7 @@ title: Automating deployments to integrators
 
 {:toc}
 
-The "[Delivering deployments](/guides/delivering-deployments/)" guide describes how to build a server that uses the [Deployments API][deploy API] to easily get your code from GitHub into production. But what if you don't want to host a separate service for deploying code? What if you just want to merge code and have it deploy without thinking about maintaining another app?
+The "[Delivering deployments](/guides/delivering-deployments/)" guide describes how to build a server that uses the [Deployments API][deploy API] to easily get your code from GitHub into production. But what if you don't want to host a separate service for deploying code? What if you just want to merge code and have it deploy without thinking about maintaining another application?
 
 You can use the GitHub Auto-Deployment service to receive changes made to your repository and configure it to deliver a deployment to integrators. The Auto-Deployment service can deliver payloads based on two events: whenever a push is made and whenever [the CI status is passing](/guides/building-a-ci-server/).
 
