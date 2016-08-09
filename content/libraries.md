@@ -4,7 +4,7 @@ layout: libraries
 ---
 
 <div class="feature">
-  <h1>Octokit comes in<br />
+  <h1>Octokit comes in hi Dany<br />
 many flavors</h1>
   <p class="intro">Use the official Octokit library, or choose between any of the available third party libraries.</p>
   <ul class="library-links">
