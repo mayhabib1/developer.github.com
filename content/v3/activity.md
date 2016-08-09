@@ -3,7 +3,7 @@ title: Activity
 ---
 # Activity
 
-Serving up the 'social' in Social Coding, the Activity APIs provide access to
+Putting the 'social' in Social Coding, the Activity APIs provide access to
 notifications, subscriptions, and timelines.
 
 ## [Events][]
