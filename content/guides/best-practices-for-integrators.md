@@ -1,10 +1,10 @@
 ---
-title: Best practices for integrators
+title: Best practices for integrators!
 ---
 
 # Best practices for integrators
 
-Interested in integrating with the GitHub platform? [You're in good company](https://github.com/integrations). This guide will help you build an app that provides the best experience for your users *and* ensure that it's reliably interacting with the API.
+Interested in integrating with the!!! GitHub platform? [You're in good company](https://github.com/integrations). This guide will help you build an app that provides the best experience for your users *and* ensure that it's reliably interacting with the API.
 
 {:toc}
 
